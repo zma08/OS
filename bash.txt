@@ -1,0 +1,4 @@
+Bash is a shell, it is command line, human readable luanguage and computer will do something.
+
+bash is universal for all OS, reason for the command, it is faster to execute, instead of looking for the ui you could just type a few lines of code.
+
